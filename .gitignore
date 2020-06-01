@@ -1,0 +1,11 @@
+# SCB framwork specific files
+
+# Python specific files
+*__pychache__
+*.pyc
+
+# OS specific files
+*.DS_Store
+
+# IDE specific
+.idea/*
